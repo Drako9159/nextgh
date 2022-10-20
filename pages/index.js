@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Next Js CI/CD con Github actions
+          Next Js CI/CD con Github actions PM2
         </h1>
 
         <p className={styles.description}>
